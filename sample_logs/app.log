@@ -1,0 +1,11 @@
+INFO Application started successfully
+INFO User login request received
+WARN Response time is slower than expected
+ERROR Database connection failed
+ERROR file not created failed
+INFO Retrying database connection
+EXCEPTION NullPointerException in payment service
+FAIL Payment API validation failed
+TIMEOUT Order service did not respond
+TIMEOUT db connection timed out
+INFO Application shutdown completed
